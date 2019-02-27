@@ -4,7 +4,7 @@ title:      "今日话题#How do good English speakers memorize English words?"
 subtitle:   ""
 date:       2019-02-27
 author:     "Lily"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/20190227.png"
 tags:
     - 记忆
     - 英语单词

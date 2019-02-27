@@ -4,7 +4,7 @@ title:      "今日话题# why should we study English?"
 subtitle:   ""
 date:       2019-02-26 12:00:00
 author:     "Lily"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/20190226.jpg"
 tags:
     - 学习
 ---
