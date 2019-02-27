@@ -3,10 +3,10 @@
   <channel>
     <title>塔可英语</title>
     <description></description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Feb 2019 12:31:10 +0800</pubDate>
-    <lastBuildDate>Wed, 27 Feb 2019 12:31:10 +0800</lastBuildDate>
+    <link>http://tacoenglish.com//</link>
+    <atom:link href="http://tacoenglish.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Feb 2019 12:32:37 +0800</pubDate>
+    <lastBuildDate>Wed, 27 Feb 2019 12:32:37 +0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -73,8 +73,8 @@
 &lt;p&gt;扩大对这个世界认知的边界，让自己的思想更加深刻，这才是学英语所能带给我们的最大好处。&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Feb 2019 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2019/02/26/Why-should-we-study-English/</link>
-        <guid isPermaLink="true">http://localhost:4000//2019/02/26/Why-should-we-study-English/</guid>
+        <link>http://tacoenglish.com//2019/02/26/Why-should-we-study-English/</link>
+        <guid isPermaLink="true">http://tacoenglish.com//2019/02/26/Why-should-we-study-English/</guid>
         
         <category>学习</category>
         
@@ -145,8 +145,8 @@
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2015/09/22/js-version/</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/09/22/js-version/</guid>
+        <link>http://tacoenglish.com//2015/09/22/js-version/</link>
+        <guid isPermaLink="true">http://tacoenglish.com//2015/09/22/js-version/</guid>
         
         <category>前端开发</category>
         
@@ -192,8 +192,8 @@
 &lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/07/09/js-module-7day/</guid>
+        <link>http://tacoenglish.com//2015/07/09/js-module-7day/</link>
+        <guid isPermaLink="true">http://tacoenglish.com//2015/07/09/js-module-7day/</guid>
         
         <category>前端开发</category>
         
@@ -506,8 +506,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2015/05/25/js-module-loader/</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/05/25/js-module-loader/</guid>
+        <link>http://tacoenglish.com//2015/05/25/js-module-loader/</link>
+        <guid isPermaLink="true">http://tacoenglish.com//2015/05/25/js-module-loader/</guid>
         
         <category>前端开发</category>
         
@@ -794,8 +794,8 @@ Android’s source code is released by Google under open source licenses, althou
 &lt;p&gt;For Detail, Chromium OS based on &lt;a href=&quot;http://en.wikipedia.org/wiki/Gentoo_Linux&quot;&gt;Gentoo Linux&lt;/a&gt;, emm…&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2015/04/14/unix-linux-note/</link>
-        <guid isPermaLink="true">http://localhost:4000//2015/04/14/unix-linux-note/</guid>
+        <link>http://tacoenglish.com//2015/04/14/unix-linux-note/</link>
+        <guid isPermaLink="true">http://tacoenglish.com//2015/04/14/unix-linux-note/</guid>
         
         <category>OS</category>
         
