@@ -3,7 +3,7 @@ layout:     post
 title:      "今日话题 # Why should we study English?"
 subtitle:   ""
 date:       2019-02-26 12:00:00
-author:     "Lily"
+author:     ""
 header-img: "img/20190226.jpg"
 tags:
     - 学习
