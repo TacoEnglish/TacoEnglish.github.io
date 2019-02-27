@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "今日话题#How do good English speakers memorize English words?"
+title:      "今日话题 # How do good English speakers memorize English words?"
 subtitle:   ""
 date:       2019-02-27
 author:     "Lily"
-header-img: "img/20190227.png"
+header-img: "img/20190227.jpg"
 tags:
     - 记忆
     - 英语单词
